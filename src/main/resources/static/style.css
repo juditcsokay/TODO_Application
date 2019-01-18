@@ -1,0 +1,121 @@
+body {
+	background-color: #e8e8e8;
+    margin: 20px 20px;
+    text-align: center;
+}
+
+table {
+
+    margin-left: auto;
+    margin-right: auto;
+	width: 57%;
+	border-collapse: collapse;
+	border-style: hidden;
+	box-shadow: 1px 1px 7px rgba(0,0,0,0.5);
+	background-color: #ffffff;
+	text-align: center;
+    margin-top: 35px;
+}
+
+th {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	color: #ffffff;
+	background-color: #1c2123;
+	padding: 18px;
+	border: 0px;
+}
+
+#one {
+	background-color: #676664;
+}
+
+#two {
+	background-color: #00B4CB;
+}
+
+#three {
+	background-color: #37BD9C;
+}
+
+#four {
+    background-color: #F03B02;
+}
+
+td {
+	padding: 15px;
+	color: #444444;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	border: 1px solid #e2e2e2;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #8c8c8c;
+    font-size: 36px;
+}
+
+a {
+    font-size: 15px;
+    font-weight: 300;
+    background-color: #676664;
+    padding: 7px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 40px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+a:hover {
+    background-color: #999692;
+}
+
+#delete {
+    background-color: #00B4CB;
+    font-size: 14px;
+}
+
+#delete:hover {
+    background-color: #6ed1dd;
+}
+
+#edit {
+    background-color: #37BD9C;
+    font-size: 14px;
+}
+
+#edit:hover {
+    background-color: #77e5ca;
+}
+
+input[type="submit"] {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    width: 100px;
+    background-color: #676664;
+    padding: 5px;
+    margin-left: 15px;
+    color: #ffffff;
+    border: 0px;
+}
+
+input[type="text"] {
+    border: 0px;
+    padding: 7.5px 7.5px 7px 7.5px;
+    margin-right: 12px;
+    width: 150px;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
